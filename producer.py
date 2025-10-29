@@ -1,4 +1,4 @@
-python
+
 from kafka import KafkaProducer
 import json, tiandom, ume, ruid
 from datetime import datetime
